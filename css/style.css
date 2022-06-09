@@ -1,0 +1,19 @@
+.container {
+    width: 90%;
+    margin: 3rem auto;
+}
+
+.faq{
+    margin: 2rem 0;
+    background-color: rgb(241, 238, 238);
+    border-radius: 10px;
+    padding: 1rem;
+}
+
+ol .inner-list{
+    list-style: lower-latin;
+}
+
+p, li {
+    margin: 1rem 0;
+}
